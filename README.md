@@ -2,11 +2,11 @@
 
 Link: https://clone-8ac35.web.app/
 
-## Used
+## Used:
 
-React Context API
-React hook - useEffect
-React Router
+..* React Context API
+..* React hook - useEffect
+..* React Router
 
 This project was bootstrapped with [Create React App].
 
