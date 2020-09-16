@@ -1,0 +1,7 @@
+.app {
+  margin: 1px;
+}
+
+.app__page {
+  display: flex;
+}
